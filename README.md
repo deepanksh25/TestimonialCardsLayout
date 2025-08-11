@@ -6,10 +6,10 @@ It displays user feedback with profile images, names, job titles, and their test
 Users can navigate between testimonials or get a random testimonial using the **"Surprise Me"** button.
 
 ## Features
-- 📱 **Responsive Design** — Works smoothly across devices.
-- 🎨 **Modern UI** — Styled with Tailwind CSS for a professional look.
-- 🔄 **Navigation Controls** — Previous and next testimonial buttons.
-- 🎲 **Surprise Me Feature** — Displays a random testimonial.
+- **Responsive Design** — Works smoothly across devices.
+- **Modern UI** — Styled with Tailwind CSS for a professional look.
+- **Navigation Controls** — Previous and next testimonial buttons.
+- **Surprise Me Feature** — Displays a random testimonial.
 
 ## Technologies Used
 - **HTML**
@@ -19,5 +19,5 @@ Users can navigate between testimonials or get a random testimonial using the **
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone <repo-link>
+   git clone https://github.com/deepanksh25/TestimonialCardsLayout.git
 
